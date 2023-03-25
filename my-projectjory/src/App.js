@@ -7,7 +7,7 @@ import 'bootstrap/dist/bootstrap.min.css';
 function App() {
   return (
     <div>
-      <Header />
+      <Header/>
       <Footer/>
     </div>
   );
