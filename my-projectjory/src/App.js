@@ -1,5 +1,9 @@
+import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/bootstrap.min.css';
 
 function App() {
   return (
