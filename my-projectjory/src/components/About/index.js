@@ -5,7 +5,7 @@ function About() {
 
     return(
         <section className="container">
-            <h2 class="top-title">Jelyse Calkum</h2>
+            <h2 class="top-title">Jelyse (Jory) Calkum</h2>
             <hr></hr>
             <div>
                 <img class="mb-5" id="avatar" src={profileImage} alt="Jelyse Calkum"/>
