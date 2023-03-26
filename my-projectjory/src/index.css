@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Audiowide');
-@import url('https://fonts.googleapis.com/css?family=Days+One');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 
 main {
@@ -128,7 +128,7 @@ img {
 }
 
 #avatar {
-  max-height:300px;
+  max-height:200px;
   border-radius: 300px;
   }
 
@@ -159,12 +159,12 @@ li {
 }
 
 .nav-font {
-  font-family: 'Audiowide' ;
+  font-family: 'Oswald' ;
   font-size: 1.5em;
 }
 
 .nav-title-font {
-  font-family: 'Days One';
+  font-family: 'Oswald';
   font-size: 1.9em;
 }
 
