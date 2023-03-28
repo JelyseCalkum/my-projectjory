@@ -58,7 +58,7 @@ function ContactForm() {
                 )}
 
                 <div class="mt-5 mb-5">
-                    <button data-testid='button' class="btn btn-outline-dark " type="submit" onClick={handleSubmit}>Submit</button>"
+                    <button data-testid='button' class="btn btn-outline-dark" type="submit" onClick={handleSubmit}>Submit</button>
                 </div>
                 </form>
                 </section>
