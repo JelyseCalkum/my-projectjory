@@ -11,8 +11,10 @@ function Resume() {
           <h2 className="top-title">Jelyse Calkum</h2>
           <ul>
             <li>
-              blah blah blah blah blah blah blah blah blah blah
-              blah blah blah blah 
+            Core competencies in full-stack web
+              development with interest in UI design.
+              Also profiicient in construction/project management, including take-offs, bids,
+              design planning and installations.
             </li>
           </ul>
 
