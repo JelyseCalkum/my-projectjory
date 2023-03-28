@@ -25,5 +25,7 @@ I would like to thank the UofO Coding Bootcamp for providing me with the knowled
 
 ## Author
 Author: Jelyse Calkum
+
 GitHub: https://github.com/jelysecalkum/
+
 Contact: jelyse.lauren@gmail.com
