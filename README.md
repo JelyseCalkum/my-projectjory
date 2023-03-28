@@ -21,7 +21,7 @@ https://jelysecalkum.github.io/my-projectjory
 Licensed under the MIT license.
 
 ## Acknowledgements
-I would liek to thank the UofO Coding Bootcamp for providing me with the knowledge and tools needed to complete this project.
+I would like to thank the UofO Coding Bootcamp for providing me with the knowledge and tools needed to complete this project.
 
 ## Author
 Author: Jelyse Calkum
