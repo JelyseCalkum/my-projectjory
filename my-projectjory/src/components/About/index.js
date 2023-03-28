@@ -9,11 +9,11 @@ function About() {
             <hr></hr>
             <div>
                 <img class="mb-5" id="avatar" src={profileImage} alt="Jelyse Calkum"/>
-            <p>Hi, my name is Jelyse, but you can call me Jory. I'm currently working towards becoming a full-stack web developer.</p> 
-              <p>When I'm not dedicating my time to studying, you can catch me engaging in an epic Nerf gun battle with my five-year-old son,
-              assisting him in building the ultimate Hot Wheels track, or passionately discussing Star Wars. In my free time, I enjoy being
-              active outdoors, whether that means playing basketball or snowboarding up in the mountains.</p> 
-              <p>Currently, my primary focus is on expanding my knowledge of full-stack web development, so that I can utilize my 
+            <p>Hi, my name is Jelyse, but you can call me Jory. I'm currently working towards becoming a full-stack web developer.</p>
+            <p>When I'm not dedicating my time to studying, you can catch me engaging in an epic Nerf gun battle with my five-year-old son,
+              assisting him in building the ultimate Hot Wheels track, or passionately discussing Star Wars.</p>
+            <p>In my free time, I enjoy being active outdoors, whether that means playing basketball or snowboarding up in the mountains.
+              Currently, my primary focus is on expanding my knowledge of full-stack web development, so that I can utilize my 
               strong attention to detail and efficiency to pursue a career where I can express my creativity to the fullest extent.</p>
             
             </div>
