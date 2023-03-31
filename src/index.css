@@ -182,6 +182,11 @@ li {
   margin-right: 30px;
 }
 
+.navbar {
+  display: flex!important;
+  justify-content: space-between!important;
+}
+
 nav a:hover {
   text-decoration: none;
 }
