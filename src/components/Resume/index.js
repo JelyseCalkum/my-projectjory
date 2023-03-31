@@ -13,8 +13,8 @@ function Resume() {
             <li>
             Core competencies in full-stack web
               development with interest in UI design.
-              Also profiicient in construction/project management, including take-offs, bids,
-              design planning and installations.
+              Also profiicient in construction/project management, including take-offs, bids, and product ordering. 
+              I will edit this portion to make it better!!
             </li>
           </ul>
 
