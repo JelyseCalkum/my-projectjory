@@ -164,8 +164,10 @@ li {
 }
 
 .nav-title-font {
+  display: flex;
   font-family: 'Oswald';
-  font-size: 1.9em;
+  font-size: 1.8em;
+  padding-left: 20%;
 }
 
 .top-title {
