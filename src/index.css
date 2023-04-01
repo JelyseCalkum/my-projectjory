@@ -132,6 +132,12 @@ img {
   border-radius: 300px;
   }
 
+  #about-me {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+  }
+
 span[role="img"] {
   cursor: default;
 }
