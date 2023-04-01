@@ -167,11 +167,13 @@ li {
 .nav-font {
   font-family: 'Oswald';
   font-size: 1.5em;
+  color: #fafafa;
 }
 
 .nav-title-font {
   display: flex;
   font-family: 'Oswald';
+  color:#ca088d;
   font-size: 1.8em;
   padding-left: 20%;
 }
@@ -188,6 +190,7 @@ li {
 .navbar-nav > li{
   margin-left: 30px;
   margin-right: 30px;
+  color: #fafafa;
 }
 
 .navbar {
@@ -195,8 +198,12 @@ li {
   justify-content: space-between!important;
 }
 
-nav a:hover {
+nav a {
   text-decoration: none;
+  color:#ca088d;
+}
+nav a:hover {
+  color:#ca088d;
 }
 
 nav  li {
