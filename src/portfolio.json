@@ -41,5 +41,13 @@
         "image": "https://user-images.githubusercontent.com/115381607/215378379-49c0070e-8ef0-4d27-a11a-b259d21b62f5.png",
         "github": "https://github.com/JelyseCalkum/Employee-Tracker",
         "topics": "Node.js, Inquirer, MySQL"
+    },
+
+    {
+        "id": 6,
+        "name": "Wags to Riches",
+        "image": "https://user-images.githubusercontent.com/115381607/232624141-84a902f0-f227-4427-927d-0105c238db93.png",
+        "github": "https://github.com/JelyseCalkum/wags-to-riches",
+        "topics": "React, React Router Dom, React Router, React Router Hash Link, ReactStrap, Bootstrap, Apollo Client, GraphQL, Javascript"
     }
 ]
