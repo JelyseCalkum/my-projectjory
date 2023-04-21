@@ -23,7 +23,7 @@
         "name": "What to Watch",
         "image": "https://user-images.githubusercontent.com/115381607/208342264-50b61a0a-5868-4624-9bf1-50eea883ed8a.png",
         "github": "https://github.com/JelyseCalkum/what-to-watch",
-        "deploy": "https://github.com/ianm1837/what-to-watch",
+        "deploy": "https://ianm1837.github.io/what-to-watch/",
         "topics": "HTML, CSS, Bulma Framework, JavaScript, jQuery, localStorage, web APIs"
     },
 
@@ -32,7 +32,7 @@
         "name": "Workday Scheduler",
         "image": "https://user-images.githubusercontent.com/115381607/202925415-371eca7d-2c45-497c-b0ca-9cc6dc9e5c59.png",
         "github": "https://github.com/JelyseCalkum/Work-Day-Scheduler",
-        "deploy": "https://github.com/JelyseCalkum/Work-Day-Scheduler",
+        "deploy": "https://jelysecalkum.github.io/Work-Day-Scheduler/",
         "topics": "HTML5, CSS, Javascript, JQuery, DayJS, Bootstrap"
     },
 
@@ -41,6 +41,7 @@
         "name": "Wags to Riches",
         "image": "https://user-images.githubusercontent.com/115381607/232624141-84a902f0-f227-4427-927d-0105c238db93.png",
         "github": "https://github.com/JelyseCalkum/wags-to-riches",
+        "deploy": "https://hidden-meadow-52736.herokuapp.com/",
         "topics": "React, React Router Dom, React Router, React Router Hash Link, ReactStrap, Bootstrap, Apollo Client, GraphQL, Javascript"
     }
 
